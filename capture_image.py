@@ -28,7 +28,7 @@ B = 66
 
 # Allowed difference between detected RGB and target RGB
 # Helps handle lighting variation in Webots
-TOLERANCE = 20
+TOLERANCE = 20 # Updated tolerance values
 
 
 # ================= DISTANCE SENSORS =================
